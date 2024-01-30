@@ -17,9 +17,7 @@
 body {
   background-color: var(--black-color);
   color: var(--white-color);
-  font: 400 14px Roboto, "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
   line-height: 1.5;
   overflow-x: hidden;
-  /* -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; */
 }
